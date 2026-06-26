@@ -53,20 +53,11 @@ Highlighted important metrics such as customer count, top items, and performance
 Enabled data-driven decision-making through visual storytelling.
 
 ## How to Run the Project
-
-Clone the repository
-
-git clone <your-repository-link>
-cd <project-folder>
-Run Python scripts
-
-Install required libraries:
-
+1. Clone the repository
+git clone <repository-link>
+2. Install required libraries
 pip install pandas numpy matplotlib seaborn
-Execute the script/notebook for data processing and EDA.
-Set up MySQL
-Import the cleaned dataset into MySQL.
-Run the provided SQL queries.
-Open Power BI Dashboard
-Load the dataset or connect to MySQL.
-Open the .pbix file to view the dashboard.
+3. Run the Python script/notebook for data processing and EDA.
+4. Set up MySQL and import the cleaned dataset.
+5. Run the provided SQL queries.
+6. Open the Power BI dashboard (.pbix file).
