@@ -1,23 +1,23 @@
-# customer_behaviour_analysis
+## Customer Segmentation & Revenue Analysis
  End-to-end retail analytics on 3,900 customers— cleaned data in Pandas, loaded to MySQL via SQLAlchemy, wrote 10 SQL queries for customer segmentation and revenue analysis. Key insight: 56–70 age group leads revenue , 80% loyal customers. Visualised a interactive dashboard in Power BI.
---Overview
+## Overview
 
 This project demonstrates an end-to-end data analytics workflow, starting from data loading and exploration to building an interactive dashboard. The goal is to extract meaningful insights from raw data and present them in a clear, business-friendly format.
 
---Dataset
+## Dataset
 The dataset contains structured data relevant to customer behavior and transactions.
 It includes features such as customer ID, purchase details, and other relevant attributes.
 Data was initially loaded and processed using Python.
 
 
--- Tools & Technologies
+## Tools & Technologies
 Python – Data loading, preprocessing, and EDA
 Pandas, NumPy, Matplotlib, Seaborn – Data manipulation and visualization
 MySQL – Querying and analysis using SQL
 Power BI – Dashboard creation and data visualization
 
 
---Project Workflow
+## Project Workflow
 1. Data Loading
 Imported dataset using Python.
 Checked structure, data types, and initial records.
@@ -41,18 +41,18 @@ KPIs
 Charts and graphs
 Filters and slicers for dynamic analysis
 
--- Dashboard
+## Dashboard
 Provides a visual summary of key insights.
 Helps in understanding customer behavior and trends.
 Interactive elements allow users to explore the data easily.
 
 
---Results & Insights
+## Results & Insights
 Identified key trends and patterns in the dataset.
 Highlighted important metrics such as customer count, top items, and performance indicators.
 Enabled data-driven decision-making through visual storytelling.
 
--- How to Run the Project
+## How to Run the Project
 
 Clone the repository
 
